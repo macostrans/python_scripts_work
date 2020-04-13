@@ -3,11 +3,10 @@ import openpyxl
 import psutil
 import wget
 import win32com.client
-import subprocess
 import sys
 
-sheet_link = r"https://docs.google.com/spreadsheets/d/1gaPljv0deyjIsqOZFecv3IoHw1GrvEFzYgv8rTO-L4M/export?format=xlsx"
-sheet_name = "Sheet1"
+sheet_link = sys.argv[1]
+sheet_name = sys.argv[2]
 parameters_dict = {}
 parameters_list = []
 file = wget.download(sheet_link)
