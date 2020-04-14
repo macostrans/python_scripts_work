@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e61c34-23ee-4e6e-83a4-20f93f87355f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel_to_gsheet/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel_to_gsheet/excel_to_gsheet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Scripts v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Scripts v2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsheet_email_automation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsheet_email_automation/gsheet_email_automation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_refresh/excel_refresh.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_refresh/excel_refresh.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
