@@ -24,7 +24,7 @@ lists = parameters_list
 
 #The mail addresses and password
 sender_address = 'kannan@tricog.com'
-sender_pass = 'TH2Vu2CaP@8B'
+sender_pass = "****"
 
 for each_list in lists:
     receiver_address = each_list["receiver-address"]
